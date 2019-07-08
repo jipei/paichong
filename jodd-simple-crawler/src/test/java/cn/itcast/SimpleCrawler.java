@@ -13,6 +13,8 @@ public class SimpleCrawler {
     //抓取拉钩网数据地址
     private static final String FETCH_URL = "https://www.lagou.com/zhaopin/Java/PAGE/?filterOption=PAGE";
 
+	
+	
     @Test
     public void test() throws Exception {
         String url = FETCH_URL.replaceAll("PAGE", "1");
