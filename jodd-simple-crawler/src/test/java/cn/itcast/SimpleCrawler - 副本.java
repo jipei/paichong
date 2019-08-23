@@ -13,7 +13,11 @@ public class SimpleCrawler {
     //抓取拉钩网数据地址
     private static final String FETCH_URL = "https://www.lagou.com/zhaopin/Java/PAGE/?filterOption=PAGE";
 
+<<<<<<< HEAD
 	//主代码
+=======
+	//分支代码2修改
+>>>>>>> remotes/origin/fenzhi1
 	
     @Test
     public void test() throws Exception {
