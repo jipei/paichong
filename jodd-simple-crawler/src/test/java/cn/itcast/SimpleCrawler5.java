@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import static jodd.jerry.Jerry.jerry;
 
-public class SimpleCrawler {
+public class SimpleCrawler5 {
 
     //抓取拉钩网数据地址
     private static final String FETCH_URL = "https://www.lagou.com/zhaopin/Java/PAGE/?filterOption=PAGE";
